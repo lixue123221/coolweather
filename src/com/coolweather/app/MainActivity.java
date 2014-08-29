@@ -1,5 +1,10 @@
 package com.coolweather.app;
 
+import com.coolweather.app.R;
+import com.coolweather.app.R.id;
+import com.coolweather.app.R.layout;
+import com.coolweather.app.R.menu;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
